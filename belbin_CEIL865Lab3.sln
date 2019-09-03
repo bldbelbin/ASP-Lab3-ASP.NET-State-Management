@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "belbin_CEIL865Lab3", "belbin_CEIL865Lab3\", "{B15135AF-65F4-431D-94D7-A485E5576E95}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_49820"
+		Debug.AspNetCompiler.PhysicalPath = "belbin_CEIL865Lab3\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49820\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_49820"
+		Release.AspNetCompiler.PhysicalPath = "belbin_CEIL865Lab3\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49820\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49820"
+		SlnRelativePath = "belbin_CEIL865Lab3\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B15135AF-65F4-431D-94D7-A485E5576E95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B15135AF-65F4-431D-94D7-A485E5576E95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {980898AB-1F1D-432A-82B3-3E97CF6DE594}
+	EndGlobalSection
+EndGlobal
